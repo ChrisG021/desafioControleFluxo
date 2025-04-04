@@ -8,12 +8,12 @@ Este projeto é um aplicação simples em Java com fins educativos com intuito d
 - Um terminal para executar
 
 ## 🚀 Como executar
-1. Clone o repositorio(opcional)
+1. Clone o repositório(opcional)
 ```sh
 git clone https://github.com/seu-usuario/DesafioControleFluxo.git
 cd DesafioControleFluxo
 ```
-2. acesse o arquivo bin
+2. acesse o diretório bin
 ```sh
 cd bin
 ```
