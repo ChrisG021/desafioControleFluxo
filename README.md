@@ -13,13 +13,13 @@ Este projeto é um aplicação simples em Java com fins educativos com intuito d
 git clone https://github.com/seu-usuario/DesafioControleFluxo.git
 cd DesafioControleFluxo
 ```
-2. Compile o projeto
+2. acesse o arquivo bin
 ```sh
-javac src/Contador.java
+cd bin
 ```
 3. Execute o programa
 ```sh
-java src.Contador
+java Contador
 ```
 
 ## 📋 Funcionamento
